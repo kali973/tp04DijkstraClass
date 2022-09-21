@@ -1,4 +1,4 @@
 package com.example.telecom.paris.services.processor;
 
-public class GraphInterface {
+public interface GraphInterface {
 }
