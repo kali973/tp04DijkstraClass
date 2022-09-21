@@ -7,8 +7,8 @@ Sujet 2 afficher un objet de la classe Student
 ![img.png](src/main/resources/document/img.png)
 
 3 - Launch Application     
-![img_1.png](src/main/resources/document/img_1.png)# tp04DijkstraClass
+![img_1.png](src/main/resources/document/img_1.png)# tp05DijkstraClass
 
-# tp04DijkstraClass
+# tp05DijkstraClass
 
-# tp04DijkstraClass
+# tp05DijkstraClass
