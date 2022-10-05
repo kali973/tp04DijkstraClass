@@ -4,10 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import com.example.telecom.paris.ProcessedVertexesSet;
-import com.example.telecom.paris.Vertex;
+import com.example.telecom.paris.interfaces.ProcessedVertexesSet;
+import com.example.telecom.paris.interfaces.Vertex;
 
-public class MinDistance implements com.example.telecom.paris.MinDistance {
+public class MinDistance implements com.example.telecom.paris.interfaces.MinDistance {
 	
 	private final Map<Vertex, Integer> minDistances;
 	

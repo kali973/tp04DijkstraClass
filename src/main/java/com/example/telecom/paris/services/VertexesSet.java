@@ -3,8 +3,8 @@ package com.example.telecom.paris.services;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.example.telecom.paris.ProcessedVertexesSet;
-import com.example.telecom.paris.Vertex;
+import com.example.telecom.paris.interfaces.ProcessedVertexesSet;
+import com.example.telecom.paris.interfaces.Vertex;
 
 public class VertexesSet implements ProcessedVertexesSet {
 	

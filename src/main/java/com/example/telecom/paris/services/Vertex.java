@@ -2,9 +2,9 @@ package com.example.telecom.paris.services;
 
 import java.util.Set;
 
-import com.example.telecom.paris.Graph;
+import com.example.telecom.paris.interfaces.Graph;
 
-public class Vertex implements com.example.telecom.paris.Vertex {
+public class Vertex implements com.example.telecom.paris.interfaces.Vertex {
 	
 	private final String name;
 	
@@ -17,7 +17,7 @@ public class Vertex implements com.example.telecom.paris.Vertex {
 	}
 
 	@Override
-	public Set<com.example.telecom.paris.Vertex> getSuccessors() {
+	public Set<com.example.telecom.paris.interfaces.Vertex> getSuccessors() {
 		return graph.getSuccessors( this );
 	}
 

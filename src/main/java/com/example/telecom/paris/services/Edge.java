@@ -1,6 +1,6 @@
 package com.example.telecom.paris.services;
 
-import com.example.telecom.paris.Vertex;
+import com.example.telecom.paris.interfaces.Vertex;
 
 public class Edge {
 	

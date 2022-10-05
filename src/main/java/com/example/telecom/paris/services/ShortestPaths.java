@@ -5,9 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import com.example.telecom.paris.Vertex;
+import com.example.telecom.paris.interfaces.Vertex;
 
-public class ShortestPaths implements com.example.telecom.paris.ShortestPaths {
+public class ShortestPaths implements com.example.telecom.paris.interfaces.ShortestPaths {
 	
 	private final Map<Vertex, Vertex> previousEdges;
 	

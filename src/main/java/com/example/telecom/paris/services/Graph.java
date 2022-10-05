@@ -3,10 +3,10 @@ package com.example.telecom.paris.services;
 import java.util.HashSet;
 import java.util.Set;
 
-import com.example.telecom.paris.Vertex;
-import com.example.telecom.paris.Distance;
+import com.example.telecom.paris.interfaces.Vertex;
+import com.example.telecom.paris.interfaces.Distance;
 
-public class Graph implements com.example.telecom.paris.Graph, Distance {
+public class Graph implements com.example.telecom.paris.interfaces.Graph, Distance {
 	
 	private final Set<Vertex> vertexes;
 	

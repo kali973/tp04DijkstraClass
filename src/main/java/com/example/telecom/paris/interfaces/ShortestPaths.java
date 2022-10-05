@@ -1,4 +1,4 @@
-package com.example.telecom.paris;
+package com.example.telecom.paris.interfaces;
 
 import java.util.List;
 
