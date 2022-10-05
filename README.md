@@ -12,3 +12,5 @@ Sujet 2 afficher un objet de la classe Student
 # tp05DijkstraClass
 
 # tp05DijkstraClass
+
+# tp06MazeClass
