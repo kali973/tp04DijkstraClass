@@ -6,11 +6,11 @@ import java.util.Set;
 import com.example.telecom.paris.ProcessedVertexesSet;
 import com.example.telecom.paris.Vertex;
 
-public class BasicVertexesSet implements ProcessedVertexesSet {
+public class VertexesSet implements ProcessedVertexesSet {
 	
 	final Set<Vertex> processedVertexes;
 	
-	public BasicVertexesSet() {
+	public VertexesSet() {
 		processedVertexes = new HashSet<>();
 	}
 
