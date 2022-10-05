@@ -74,7 +74,6 @@ public class Dijkstra {
 			pivotVertex = minDistance.getMinDistanceVertex( processedVertexes, graph.getVertexes() );
 			processedVertexes.add( pivotVertex );
 		}
-		
 		return shortestPaths;
 	}
 }
