@@ -1,16 +1,1 @@
-Sujet 2 afficher un objet de la classe Student
-
-1 - Launch in **_Terminal command_** : **mvn clean install**
-
-2 - Create a launcher with **Edit Configuration**
-
-![img.png](src/main/resources/document/img.png)
-
-3 - Launch Application     
-![img_1.png](src/main/resources/document/img_1.png)# tp05DijkstraClass
-
-# tp05DijkstraClass
-
-# tp05DijkstraClass
-
-# tp06MazeClass
+Nous allons programmer l’algorithme de Dijkstra servant à calculer le plus court chemin entre deux sommets d’un graphe tel qu’illustré par la figure suivante. Chaque arc de ce graphe est caractérisé par une valeur représentant la distance entre les deux sommets qu’il relie.
