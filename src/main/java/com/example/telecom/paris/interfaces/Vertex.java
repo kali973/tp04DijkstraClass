@@ -4,7 +4,7 @@ import java.util.Set;
 
 public interface Vertex {
 
-	Set<Vertex> getSuccessors();
-	
-	String getLabel();
+    Set<Vertex> getSuccessors();
+
+    String getLabel();
 }
